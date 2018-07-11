@@ -1,0 +1,1 @@
+`mvn install:install-file -DgroupId=ca.psiphon -DartifactId=psiphontunnel -Dversion=1.0.6 -Dpackaging=aar -Dfile=./ca.psiphon.aar -DlocalRepositoryPath=./releases/ -DgeneratePom=true -DcreateChecksum=true`
